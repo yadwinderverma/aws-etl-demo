@@ -4,7 +4,7 @@ Demonstrates serverless AWS based ETL pipeline
 
 ![dependency map](docs/ingestion_framework.png)
 
-Steps:
+## Steps
 
 1. The ETL pipeline starts when source sends the data file in the RAW bucket
 2. To control batch or event based execution of the pipeline, the s3 key of the incoming file is queued in an FIFO SQS queue
