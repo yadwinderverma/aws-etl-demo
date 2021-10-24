@@ -68,8 +68,8 @@ def load(df, output_prefix, file_name):
     df.to_csv(output_prefix+file_name, index=False)
 
 if __name__ == "__main__":
-    input_key = 'src/curate-json-glue-job/test_files/input_json_blob.dat'
-    output_prefix = 'src/curate-json-glue-job/test_files/'
+    input_key = 'test_files/input_json_blob.dat'
+    output_prefix = 'test_files/'
     file_name = 'output_flat_file.dat'
 
     raw_dic = extract(input_key)
