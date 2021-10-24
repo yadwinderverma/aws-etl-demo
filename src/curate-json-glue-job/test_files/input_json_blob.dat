@@ -1,0 +1,5 @@
+"{""num_of_results"":1,""search_params"":{""search_distance"":10,""view"":""list"",""taxon_id"":666,""published_to"":""m_store"",""store_name"":""Jonn Bike Shop"",""root_taxon_slug"":""bike-tyres-tubes""}}"
+"{""num_of_results"":0,""search_params"":{""search_distance"":10,""brand_ids"":[236,5],""published_to"":""marketplace""}}"
+"{""num_of_results"":5,""search_params"":{""search_distance"":10,""taxon_id"":499,""brand_ids"":[1764],""published_to"":""marketplace"", ""store_name"":""TT Bike Shop"",""root_taxon_slug"":""bike-tyres-tubes""}}"
+"{""num_of_results"":583,""search_params"":{""search_distance"":10,""taxon_id"":656,""published_to"":""marketplace"",""store_name"":""Jonn Bike Shop"",""root_taxon_slug"":""bikes""}}"
+{""num_of_results"":619,""search_params"":{""search_distance"":10,""taxon_id"":1,""brand_ids"":[176,51],""published_to"":""marketplace"",""store_name"":""TT Bike Shop"",""root_taxon_slug"":""bikes""}}
